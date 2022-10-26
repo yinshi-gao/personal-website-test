@@ -19,7 +19,6 @@ const Index = () => (
         <Link to="/teaching">teaching</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> Source available <a href="/">here</a>.</p>
     </article>
   </Main>
 );
