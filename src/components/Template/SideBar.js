@@ -12,7 +12,7 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/death_valley.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Yinshi (Agnes) Gao</h2>
+        <h2>Yinshi (Agnes) Gao 高印时</h2>
       </header>
     </section>
 
