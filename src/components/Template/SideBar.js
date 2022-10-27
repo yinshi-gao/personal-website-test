@@ -30,7 +30,6 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Made with love by Yinshi Gao and Qi Qu </p>
     </section>
   </section>
 );
