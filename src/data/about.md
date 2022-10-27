@@ -3,4 +3,3 @@ I am a PhD candidate in the Department of Supply Chain and Information Systems a
 
 Before I joined PhD program at [PennState](https://www.psu.edu/), I got my MA degree in economics from [Duke University](https://duke.edu/) and bachelor degree in economics from [Renmin University of China](https://www.ruc.edu.cn/en).
 
-
