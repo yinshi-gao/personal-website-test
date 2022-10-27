@@ -17,10 +17,6 @@ const SideBar = () => (
     </section>
 
     <section className="blurb">
-      <h2>About</h2>
-      <p>I am a PhD candidate in the Department of Supply Chain and Information Systems
-        at Smeal College of Business, Pennsylvania State University.
-      </p>
       <ul className="actions">
         <li>
           {!window.location.pathname.includes('/contact') ? <Link to="/contact" className="button">Contact me</Link> : <Link to="/about" className="button">About Me</Link>}
