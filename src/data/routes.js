@@ -4,10 +4,10 @@ const routes = [
     label: "Yinshi (Agnes) Gao",
     path: '/',
   },
-//  {
-//    label: 'About',
-//    path: '/about',
-//  },
+  {
+    label: 'About',
+    path: '/about',
+  },
   {
     label: 'Research',
     path: '/research',
