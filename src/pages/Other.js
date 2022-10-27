@@ -16,10 +16,10 @@ const Other = () => (
     title="About"
     description="Learn more about Yinshi Gao"
   >
-    <article className="post markdown" id="about">
+    <article className="post markdown" id="other">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/about">Other</Link></h2>
+          <h2 data-testid="heading"><Link to="/other">Other</Link></h2>
         </div>
       </header>
       <ReactMarkdown
