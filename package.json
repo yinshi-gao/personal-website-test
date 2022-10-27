@@ -1,11 +1,11 @@
 {
   "name": "personal-website-test",
   "version": "4.0.0",
-  "homepage": "https://qqu0127.github.io/personal-website-test",
+  "homepage": "https://yinshi-gao.github.io/personal-website-test",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qqu0127/personal-website-test.git"
+    "url": "https://github.com/yinshi-gao/personal-website-test.git"
   },
   "engines": {
     "node": ">=14.x"
