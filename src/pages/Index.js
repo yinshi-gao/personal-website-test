@@ -24,7 +24,7 @@ const Index = () => (
 //          Link: LinkRenderer,
 //        }}
       />
-      <p>My CV can be found <Link to = "/">HERE</Link>.</p>
+      <p>My CV can be found <a href="/public/Gao_Yinshi(Agnes)_CV.pdf">HERE</a>.</p>
     </article>
   </Main>
   );
