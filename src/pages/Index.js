@@ -22,9 +22,9 @@ const Index = () => (
         source={markdown}
 //        renderers={{
 //          Link: LinkRenderer,
-//        }}
+//        }} 
       />
-      <p>My CV can be found <a href="/public/Gao_Yinshi(Agnes)_CV.pdf">HERE</a>.</p>
+      <p>My CV can be found <a href="/Gao_Yinshi(Agnes)_CV.pdf">HERE</a>.</p> 
     </article>
   </Main>
   );
