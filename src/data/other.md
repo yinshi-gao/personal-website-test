@@ -6,7 +6,7 @@
 - RUC Cheerleader's Team 2013 -- 2014, Renmin University of China
 
 # Hobbies
-- Covering Songs (using Garageband), Hiphop Dance, Snorkeling, Hiking, [Embroidery](/images/Em.pdf)
+- Covering Songs (using Garageband), Hiphop Dance, Snorkeling, Hiking, [Embroidery](/images/Em.jpg)
 
 # Languages
 - Mandarin (native), English (professional), French (intermediate)
