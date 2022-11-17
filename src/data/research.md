@@ -9,7 +9,7 @@
 # Submitted papers
 
 - When Should an OEM Servicize the Use of a Capital Intensive Product with a Multi-usecycle Business Model? 
-Under review at Manufacturing & Service Operations Management (with [Saurabh Bansal](https://directory.smeal.psu.edu/sub32), [Dan Guide](http://www.personal.psu.edu/drg16/))
+Under review at Production and Operations Management (with [Saurabh Bansal](https://directory.smeal.psu.edu/sub32), [Dan Guide](http://www.personal.psu.edu/drg16/))
 
 # Working Paper
 - Dedicated or Common Product? Multi-usecycle Product Design for Servicizing Business. 
